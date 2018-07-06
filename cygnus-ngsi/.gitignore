@@ -1,0 +1,5 @@
+/.settings/
+/.classpath
+/.project
+/compile.sh
+/compile_scp.sh
