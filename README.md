@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cygnus
 [![License badge](https://img.shields.io/badge/license-AGPL-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
 [![Documentation badge](https://readthedocs.org/projects/fiware-cygnus/badge/?version=latest)](http://fiware-cygnus.readthedocs.org/en/latest/?badge=latest)
@@ -58,3 +59,13 @@ Cygnus is licensed under Affero General Public License (GPL) version 3. You can 
 
 ## Reporting issues and contact information
 Any doubt you may have, please refer to the [Cygnus Core Team](./reporting_issues_and_contact.md).
+=======
+# Cygnus Sink for BEinCPPS
+
+## Installation
+```
+  ...
+```
+## Configuration Settings
+
+>>>>>>> branch 'master' of git://github.com/is3labengrd/beincpps-cygnus-custom-sink
